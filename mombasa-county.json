@@ -1,0 +1,49 @@
+{
+	"Mombasa County": [
+		"Changamwe", [
+			"Port Reitz",
+			"Kipevu",
+			"Airport",
+			"Changamwe",
+			"Chaani"
+
+		],
+		"Jomvu", [
+			"Jomvu Kuu",
+			"Miritini",
+			"Mikindani"
+
+		],
+		"Kisauni", [
+			"Mjambere",
+			"Junda",
+			"Bamburi",
+			"Mwakirunge",
+			"Mtopanga",
+			"Magogoni",
+			"Shanzu"
+		],
+		"Nyali", [
+			"Airport",
+			"Kipevu",
+			"Changamwe",
+			"Port Reitz",
+			"Chaani"
+		],
+		"Likoni", [
+			"Mtongwe",
+			"Shika Adabu",
+			" Bofu",
+			"Likoni",
+			"Timbwani"
+		],
+		"Mvita", [
+			"Mji wa Kale",
+			"Tudor",
+			"Tononoka",
+			"Shimanzi",
+			"Majengo",
+			"Kwale"
+		]
+	]
+}
