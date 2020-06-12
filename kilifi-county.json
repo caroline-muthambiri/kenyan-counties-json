@@ -1,0 +1,59 @@
+{
+	"Kilifi County": [
+		"Kilifi North", [
+			"Tezo",
+			"Sokoni",
+			"Kibarani",
+			"Dabaso",
+			"Matsangoni",
+			"Watamu",
+			"Mnarani"
+		],
+
+		"Kilifi South", [
+			"Junju",
+			"Mwarakaya",
+			"Shimo la Tewa",
+			"Chasimba",
+			"Mtepeni"
+		],
+		"Kaloleni", [
+			"Mariakani",
+			"Kayafungo",
+			"Kaloleni",
+			"Mwanamwinga"
+		],
+
+		"Rabai", [
+			"Mwawesa",
+			"Ruruma",
+			"Jibana",
+			"Rabai/ Kisurutuni"
+		],
+
+		"Ganze", [
+			"Dungicha",
+			"Bamba",
+			"Jaribuni",
+			"Sokoke"
+		],
+
+		"Malindi", [
+			"Jilore",
+			"Kakuyuni",
+			"Ganda",
+			"Malindi Town",
+			"Shella"
+		],
+
+		" Magarini", [
+			"Maarafa",
+			"Magarini",
+			"Gongoni",
+			"Adu",
+			"Garashi",
+			"Sabaki"
+		]
+
+	]
+}
