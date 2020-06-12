@@ -1,0 +1,31 @@
+{
+	"Tana River County": [
+		"Garsen", [
+			"Kipini East",
+			"Garsen South",
+			"Kipini West",
+			"Garsen Central",
+			"Garsen West",
+			"Garsen North"
+		],
+
+		"Galole", [
+			"Chewani/ Kiarukungu",
+			"Chifiri",
+			"Gwano",
+			"Kinakomba",
+			"Milalulu",
+			"Ndura",
+			"Wayu",
+			"Zubaki/Mikinduni"
+		],
+
+		"Bura", [
+			"Chewele",
+			"Hirimani",
+			"Bangale",
+			"Sala",
+			"Madogo"
+		]
+	]
+}
