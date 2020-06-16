@@ -1,0 +1,46 @@
+{
+	"Wajir County": [
+		"Wajir North", [
+			"Ajawa",
+			"Batalu",
+			"Buna",
+			"Bute",
+			"Godoma",
+			"Gurar",
+			"Korondile"
+		],
+		"Wajir East", [
+			"Wagberi",
+			"Township",
+			"Barwago",
+			"Khorof/Harar"
+		],
+		"Tarbaj", [
+			"Elben",
+			"Sarman",
+			"Tarbaj",
+			"Wargadad"
+		],
+		"Wajir West", [
+			"Arbajahan",
+			"Hadado/Athibohol",
+			"Ademasajide",
+			"Ganyure",
+			"Wagalla"
+		],
+		"Eldas", [
+			"Eldas",
+			"Della",
+			"Lakoley South/Basir",
+			"Elnur/ Tula Tula"
+		],
+		"Wajir South", [
+			"Benane",
+			"Burder",
+			"Dadaja Bulla",
+			"Habaswein",
+			"Lagboghol South",
+			"Ibrahim Ure"
+		]
+	]
+}

@@ -1,0 +1,47 @@
+{
+	"Garissa County": [
+		"Garissa Township", [
+			"Waberi",
+			"Galbet",
+			"Township",
+			"Iftin"
+		],
+		"Balambala", [
+			"Balambala",
+			"Danyere",
+			"Jarajara",
+			"Saka",
+			"Samkuri"
+		],
+		"Lagdera", [
+			"Modogashe",
+			"Bename",
+			"Goreale",
+			"Maalamin",
+			"Sabena",
+			"Baraki"
+		],
+		"Dadaab", [
+			"Dertu",
+			"Dadaab",
+			"Labisgale",
+			"Damajale",
+			"Liboi",
+			"Abakaile"
+		],
+		"Fafi", [
+			"Bura",
+			"Dekaharia",
+			"Jarajila",
+			"Fafi",
+			"Nanighi"
+
+		],
+		"Ijara", [
+			"Ijara",
+			"Hulugho",
+			"Sangailu",
+			"Masalani"
+		]
+	]
+}

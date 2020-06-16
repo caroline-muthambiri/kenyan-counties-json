@@ -1,0 +1,49 @@
+{
+	"Mandera County": [
+		"Mandera West", [
+			" Takaba South",
+			"Takaba",
+			"Lagsure",
+			"Dandu",
+			"Gither"
+		],
+		"Banissa", [
+			"Banissa",
+			"Derkale",
+			"Guba",
+			"Malkamari",
+			"Takaba North",
+			"Takaba South",
+			"Kiliwehiri"
+		],
+		"Mandera North", [
+			"Ashabito",
+			"Guticha",
+			"Marothile",
+			"Rhamu",
+			"Rhamu Dimtu"
+
+		],
+		"Mandera South", [
+			"Wargadud",
+			"Kutulo",
+			"Elwak South",
+			"Elwak North",
+			"Shimbir Fatuma"
+		],
+		"Mandera East", [
+			"Arabia",
+			"Libehia",
+			"Khalalio",
+			"Neboi",
+			"Township"
+		],
+		"Lafey", [
+			"Sala",
+			"Fino",
+			"Lafey",
+			"Waranqara",
+			"Alungo"
+		]
+	]
+}
