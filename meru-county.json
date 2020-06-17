@@ -1,0 +1,71 @@
+{
+	"Meru": [
+		"Igembe South", [
+			"Maua",
+			"Kegoi/Antubochiu",
+			"Athiru",
+			"Gaiti",
+			"Akachiu",
+			"Kanuni"
+		],
+		"Igembe Central", [
+			"Akirang'ondu",
+			"Athiru",
+			"Ruujine",
+			"Igembe East Njia",
+			"Kangeta"
+		],
+		"Igembe North", [
+			"Antuambui",
+			"Ntunene",
+			"Antubetwe Kiongo",
+			"Naathui",
+			"Amwathui"
+		],
+		"Tigania West", [
+			"Akithi",
+			"Kianjai",
+			"Kitheo",
+			"Mbeu",
+			"Mituntu",
+			"Nkomo"
+		],
+		"Tigania East", [
+			"Karama",
+			"Kigucwa",
+			"Mikinduri",
+			"Muthara",
+			"Thangatha"
+		],
+		"North Imenti", [
+			"Municipality",
+			"Ntima East",
+			"Ntima West",
+			"Nyaki East",
+			"Nyaki West"
+		],
+		"Buuri",
+		[
+			"Timau",
+			"Kisima",
+			"Kirua/Naari",
+			"Ruiri/Rwarera"
+		],
+		"Central Imenti", [
+			"Mwanganthia",
+			"Abothuguchi Central",
+			"Abothuguchi West",
+			"Kiagu",
+			"Kibirichia"
+		],
+		"South Imenti",
+		[
+			"Mitunguu",
+			"Igoji East",
+			"Igoji West",
+			"Abogeta East",
+			"Abogeta West",
+			"Nkuene"
+		]
+	]
+}
